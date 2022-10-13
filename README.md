@@ -4,7 +4,7 @@
   <a href="https://portfolio-truccolo.netlify.app/" target="_blank">Portfolio | Trúccolo</a>
 </h2>
 <div align="center">
-  <img alt="Portfolio" src="https://image.shutterstock.com/image-photo/portrait-surprised-cat-scottish-straight-260nw-499196506.jpg" width="500px" height="500px"/>
+  <img alt="Portfolio" src="https://image.shutterstock.com/image-photo/portrait-surprised-cat-scottish-straight-260nw-499196506.jpg" width="500px" height="400px"/>
 </div>
 
 <br/>
